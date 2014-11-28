@@ -6,7 +6,7 @@
 <!-- News -->
 <section>
 <header>
-<h2>{writeNewsHeader} {writeNewsRSS}</h2>
+<h2>{writeNewsHeader} <!-- {writeNewsRSS} --></h2>
 </header>
 <article>
 {writeNews}
