@@ -37,4 +37,4 @@ define('PMF_DATETIME_TIMEZONE_DEFAULT', 'Europe/Berlin');
 
 
 */
-define('PMF_AUTH_TIMEOUT', 30);
+define('PMF_AUTH_TIMEOUT', 60);
